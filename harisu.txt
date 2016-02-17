@@ -1,0 +1,25 @@
+HARISU FANYUI 
+FE14A094
+SMART BROWSER
+Smart browser is a webbrowser that was developed by harisu fanyui a student
+from  the faculty of engineering and technology university of buea as a project which was mentored
+by our lecturer mr.Ngatchu Damen this browser was developed using a Gtk 
+i faced some challanges at the very beginning of the project as it seemed almost
+impossible from my point of view but with the courage i went into 
+it and after sometime i started seeing feasibilities in what our lecturer really
+meant when he said we should developed a webbrowser
+although the browser can search the web it cannot store the pages and as can be seen by any
+one who has brows with it. It has it shortcomming and i intern to continue developing the browser
+adding new features such as browsing by using photo and encoporating an antivirus into it so that it 
+takes care of any malware that might affect the user's machine during his/her browsing with this browser. 
+
+
+personally i have gain the experience of working 
+on a real life project.during the course of the project i learnt alot of things 
+because of the challanges that i encountered an i went on to do extra studies in order
+to solve the problem.
+great thanks goes to our lecturer because he has made me developed personal skill that do not only apply
+to the browser project but skills that i can use in building other application as well.
+i am really impressed to see what i can do and was able to do with the browser development not widstanding 
+it's a sign for me to used my elastic brain and do more.
+  
